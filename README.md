@@ -256,18 +256,19 @@ This project is for educational and research purposes.
 
 ## 👥 Authors
 
-- [Your Name] - Final Year Project / CDS-6344 Assignment
+- Siow Yee Ceng
+- Lo Pei Qin
 
 ## 🙏 Acknowledgments
 
 - Dataset: Flipkart iPhone Reviews
 - Libraries: scikit-learn, NLTK, spaCy, pandas
-- Course: CDS-6344 (Data Science/NLP Course)
+- Course: CDS-6344 (Social Media Computing)
 
 ## 📧 Contact
 
-For questions or support, please contact [your.email@domain.com]
+For questions or support, please contact [1211102017@student.mmu.edu.my]
 
 ---
 
-**Note**: This project demonstrates comprehensive sentiment analysis techniques including traditional ML, aspect-based analysis, and opinion mining for educational purposes.
+**Note**: This project demonstrates comprehensive sentiment analysis techniques, including traditional ML, aspect-based analysis, and opinion mining for educational purposes.
